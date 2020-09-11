@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name trap-pcb)(type Legacy)(uri ${KIPRJMOD}/libraries/trap-pcb.lib)(options "")(descr ""))
+)
